@@ -1,5 +1,4 @@
 # My CV
----
 1. My fullname is Ivan Lyskov
 2. Contacts:
     + lyskov.ivan.and@gmail.com
