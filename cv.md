@@ -4,7 +4,7 @@
 2. Contacts:
     + lyskov.ivan.and@gmail.com
     + Esteradfi (telegram)
-3. 
+3. I am a second year student of engineering. A year ago, I wanted to learn a programming language. The choice fell on JS. Over this year, a simple interest in development has grown into a desire to work in the IT field as a frontend developer. At the moment I have experience in one project, but I want to deepen my knowledge in frontend development in order to take on more complex orders or get a job as a junior developer. That's why I came to RSS.
 4. Skills:
     + HTML & CSS
     + JS
